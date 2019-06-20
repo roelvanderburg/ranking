@@ -1,0 +1,33 @@
+type: MS SQL Server
+server: li-db1
+port: 1433
+database: LI_PRD
+username: li_ro
+password: Eequei0b
+
+IP: 94.198.29.93
+
+
+
+norbert.de.vreede@wolterkluwer.com
+
+Mail voor SQL queries voor database. 
+
+GrayLOG:
+
+
+graylog query = facility:PRD-Solr AND full_message:"PRD_Legal_Slave" AND full_message:"ontucht"
+
+username: li
+wachtwoord: eiFied1W
+
+
+Graylog -> 
+
+
+Wel: li.caller= basic-search
+Uitsluiten: distrib=false ipv (isShard=true)
+		
+
+Javabin & version eruithalen
+rows != 0 
